@@ -1,4 +1,4 @@
-
+<img src="header_background.jpg" width="100%" />
 <h2>Olá!👋</h2><br />
 <p>
 Sou Fernando, designer gráfico e desenvolvedor web front-end e back-end (PHP MySQL, JavaScript, JQuere, CSS e HTML), desenvolvo também jogos e animações em 2D (ActionScript 3.0 / Adobe Animate), Estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas, estou buscando me atualizar na área de tecnologia. <br />Estou também no Linkedin: <a href="https://www.linkedin.com/in/fernando-quaresma-10016960" target="_blank" >LINK DO MEU PERFIL</a><br /></p>
